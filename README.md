@@ -1,4 +1,5 @@
 # WindowsBooster (Unfinished)
+This will only work for Lastest Windows 10 (i think 21H2)
 ## Credits : 
 - https://youtu.be/W-LnnjsCAe8
 - https://youtu.be/SaYbFmB2rDw
