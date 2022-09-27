@@ -11,3 +11,5 @@ Features :
 - Clear Windows Temp
 - Set To Highest Performance By Changing Windows Registries
 - One-Click Install Pajno's Ultimate Performance Power Plan
+
+source code maybe release idk
